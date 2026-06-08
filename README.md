@@ -1,4 +1,4 @@
-# Automatizacion y Administración de Dominiosñ
+# Automatizacion y Administración de Dominios
 
 # Descrición del Proyecto.
 La solución nos permite centralizar la información de los dominios dentro de una lista de SharePoint, registrando los datos más relevantes, como el nombre, hosting, precio, proveedor, costo, fecha de vencimiento y el estado de renovación automática, facilitando la administración y consulta de información.
@@ -13,3 +13,12 @@ La administración de los dominios se manejaba únicamente por medio de un archi
 # Objetivo 
 
 Desarrollar una solución automatizada para el monitoreo de dominios y servicios de hosting, generando una notificación automática sobre los próximos vencimientos con el fin de anticipar el proceso de renovación, reduciendo los riesgos de interrupciones en los servicios y mantener un flujo correcto y un mayor control sobre los activos digitales de la organización.
+
+# Tecnologias Utilizadas
+
+- Sharepoint
+- PowerAutomate
+- Outlook
+- Microsoft 365
+
+# Funciones Principales
