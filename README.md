@@ -48,3 +48,7 @@ Gracias a la implementación de esta solución se mejoró la gestión y administ
 La automatización de las notificaciones permitió anticipar los procesos de renovación, manteniendo informados tanto al área de TI como al responsable del área de pagos de los próximos vencimientos.
 
 Asimismo, se logró centralizar y tener un control de la información relacionada con los servicios de hosting y dominios, facilitando la consulta, seguimiento y administración.
+
+# Base de Datos
+
+!(image)[Fotos/BaseDatosSP)
