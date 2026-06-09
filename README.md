@@ -34,14 +34,21 @@ Registro de dominio
 ↓
 Power Automate ejecuta la validación
 ↓
-- Consulta fecha de vencimiento
-- Cálculo de días restantes
-- ¿Faltan 7 días?
-- Sí
-- Generación de correo electrónico automático
-- Personal de sistemas
-- Personal de pagos
-- Renovación
+Consulta fecha de vencimiento
+↓
+Cálculo de días restantes
+↓
+¿Faltan 7 días?
+↓
+Sí
+↓
+Generación de correo electrónico automático
+↓
+Personal de sistemas
+↓
+Personal de pagos
+↓
+Renovación
 
 # Resultados Obtenidos
 
