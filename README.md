@@ -15,9 +15,9 @@ La administración de los dominios se manejaba únicamente por medio de un archi
 Desarrollar una solución automatizada para el monitoreo de dominios y servicios de hosting, generando una notificación automática sobre los próximos vencimientos con el fin de anticipar el proceso de renovación, reduciendo los riesgos de interrupciones en los servicios y mantener un flujo correcto y un mayor control sobre los activos digitales de la organización.
 
 # Tecnologías Utilizadas
-- Sharepoint
-- PowerAutomate
-- Outlook
+- Microsoft Sharepoint
+- Microsoft PowerAutomate
+- Microsoft Outlook
 - Microsoft 365
 
 # Funciones Principales
@@ -30,25 +30,16 @@ Desarrollar una solución automatizada para el monitoreo de dominios y servicios
 
 # Flujo del Proceso
 
-Registro de dominio
-↓
-Power Automate ejecuta la validación
-↓
-Consulta fecha de vencimiento
-↓
-Cálculo de días restantes
-↓
-¿Faltan 7 días?
-↓
-Sí
-↓
-Generación de correo electrónico automático
-↓
-Personal de sistemas
-↓
-Personal de pagos
-↓
-Renovación
+1.- Registro de dominio
+2.- Power Automate ejecuta la validación
+3.- Consulta fecha de vencimiento
+4.- Cálculo de días restantes
+5.- ¿Faltan 7 días?
+6.- Sí
+7.- Generación de correo electrónico automático
+8.- Personal de sistemas
+9.- Personal de pagos
+10.-Renovación
 
 # Resultados Obtenidos
 
