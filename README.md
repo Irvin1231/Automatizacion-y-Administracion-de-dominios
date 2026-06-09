@@ -30,16 +30,16 @@ Desarrollar una solución automatizada para el monitoreo de dominios y servicios
 
 # Flujo del Proceso
 
-1.- Registro de dominio
-2.- Power Automate ejecuta la validación
-3.- Consulta fecha de vencimiento
-4.- Cálculo de días restantes
-5.- ¿Faltan 7 días?
-6.- Sí
-7.- Generación de correo electrónico automático
-8.- Personal de sistemas
-9.- Personal de pagos
-10.-Renovación
+- Registro de dominio
+- Power Automate ejecuta la validación
+- Consulta fecha de vencimiento
+- Cálculo de días restantes
+- ¿Faltan 7 días?
+- Sí
+- Generación de correo electrónico automático
+- Personal de sistemas
+- Personal de pagos
+- Renovación
 
 # Resultados Obtenidos
 
