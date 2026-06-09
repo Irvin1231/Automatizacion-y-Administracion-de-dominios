@@ -52,3 +52,9 @@ Asimismo, se logró centralizar y tener un control de la información relacionad
 # Base de Datos
 
 ![Base de Datos](Fotos/baseps.png)
+
+# Flujo de PowerAutomate
+![Base de Datos](Fotos/FlujoPA.png)
+
+# Notificación 
+![Base de Datos](Fotos/AvisoVencimiento.png)
