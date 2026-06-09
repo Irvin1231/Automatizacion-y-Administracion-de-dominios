@@ -40,3 +40,11 @@ Desarrollar una solución automatizada para el monitoreo de dominios y servicios
 - Personal de sistemas
 - Personal de pagos
 - Renovación
+
+# Resultados Obtenidos
+
+Gracias a la implementación de esta solución se mejoró la gestión y administración de dominios y hosting, reduciendo significativamente el riesgo de vencimientos por falta de seguimiento adecuado.
+
+La automatización de las notificaciones permitió anticipar los procesos de renovación, manteniendo informados tanto al área de TI como al responsable del área de pagos de los próximos vencimientos.
+
+Asimismo, se logró centralizar y tener un control de la información relacionada con los servicios de hosting y dominios, facilitando la consulta, seguimiento y administración.
