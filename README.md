@@ -51,4 +51,4 @@ Asimismo, se logró centralizar y tener un control de la información relacionad
 
 # Base de Datos
 
-!(Base de Datos)[Fotos/ps.png)
+!(Base de Datos)[Fotos/baseps.png)
